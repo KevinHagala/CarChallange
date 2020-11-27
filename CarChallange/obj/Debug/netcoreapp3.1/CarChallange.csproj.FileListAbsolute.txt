@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\CarChallange\CarChallange\bin\Debug\netcoreapp3.1\CarChallange.exe
+C:\Users\opilane\source\repos\CarChallange\CarChallange\bin\Debug\netcoreapp3.1\CarChallange.deps.json
+C:\Users\opilane\source\repos\CarChallange\CarChallange\bin\Debug\netcoreapp3.1\CarChallange.runtimeconfig.json
+C:\Users\opilane\source\repos\CarChallange\CarChallange\bin\Debug\netcoreapp3.1\CarChallange.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\CarChallange\CarChallange\bin\Debug\netcoreapp3.1\CarChallange.dll
+C:\Users\opilane\source\repos\CarChallange\CarChallange\bin\Debug\netcoreapp3.1\CarChallange.pdb
+C:\Users\opilane\source\repos\CarChallange\CarChallange\obj\Debug\netcoreapp3.1\CarChallange.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\CarChallange\CarChallange\obj\Debug\netcoreapp3.1\CarChallange.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\CarChallange\CarChallange\obj\Debug\netcoreapp3.1\CarChallange.AssemblyInfo.cs
+C:\Users\opilane\source\repos\CarChallange\CarChallange\obj\Debug\netcoreapp3.1\CarChallange.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\CarChallange\CarChallange\obj\Debug\netcoreapp3.1\CarChallange.dll
+C:\Users\opilane\source\repos\CarChallange\CarChallange\obj\Debug\netcoreapp3.1\CarChallange.pdb
+C:\Users\opilane\source\repos\CarChallange\CarChallange\obj\Debug\netcoreapp3.1\CarChallange.genruntimeconfig.cache
